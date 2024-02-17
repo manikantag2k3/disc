@@ -1,0 +1,6 @@
+discord
+aiohttp
+requests
+datetime
+logging
+asyncio
